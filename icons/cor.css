@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(255, 255, 255);
+    color:rgb(13, 97, 112); ;
+    
+}
+#top{
+    position:absolute;
+    top: 10px;
+    right: 10px;
+
+}
+header{
+
+    background-image: url(corV.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin:0px;
+   
+  
+}
+article{
+    background-color: gold;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+h5{
+    color: rgb(13, 97, 112);
+}
+h4{
+    color:black;
+}
+#grid-con{
+display:grid;
+grid-template-columns: auto auto auto;
+align-items: center;
+text-align: center;
+text-size-adjust: 10;
+}
+ 
+     
+
+
+      
+       
+    
+       
+    
+   
+    
+
